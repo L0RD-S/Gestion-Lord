@@ -14,7 +14,7 @@
 
 # Technologie :
 - FRONT : React (javascript)
-- BACK : Flask (python) et PHP
+- BACK : Flask (python) et/ou PHP
 
 # Jobs :
 - [ ] Conception de base
